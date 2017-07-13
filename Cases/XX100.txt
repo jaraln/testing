@@ -1,1 +1,6 @@
+Heading must be here
+---------------------
 XXX100 file with text.
+
+Some changes to this file.
+
